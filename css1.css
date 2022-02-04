@@ -1,0 +1,67 @@
+.avaliable-coffee{
+	height: 300px;
+	width: 300px;
+	font-size: 17px;
+}
+
+.coffee-list{
+	list-style-type: square; 
+}
+.detro{
+	color: blue;
+	border-bottom-style:dotted;
+	border-bottom-width: 2px;
+	border-bottom-color:green;
+
+	border-top-style: dotted;
+	border-top-width: 2px;
+	border-top-color: red;    
+
+	font-style: italic;
+	font-size: 15px;
+	font-family: georgia;
+
+
+
+}
+.vdetro{
+	color: green;
+	border: 4px double yellow;
+	font-size: 15px; 
+}
+
+.div-img{
+	height: 80%;
+	width: 90%;
+}
+.pricing-table{
+	width: 100%;
+	border: 2px solid green;
+	font-family: "Arail black", georgia, Sans-sefi;
+	text-align: center;
+}
+.caption-table{
+	color: #ADD8E6;
+}
+td{
+	height: 50px;
+	font-size: 22px;
+	color: #7c4c29;
+}
+th{
+	background-color: #32a87d;
+	height: 50px;
+	color: white;
+	font-size: 22px;
+}
+.footer{
+	background-color: black;
+	color: white;
+	font-size: 50px;
+	text-align: center;
+	height: 100px;
+}
+
+#Mocha{
+	color: grey;
+}
